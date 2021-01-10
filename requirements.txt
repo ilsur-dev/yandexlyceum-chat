@@ -1,0 +1,2 @@
+websockets
+PyQT5==5.15.1
